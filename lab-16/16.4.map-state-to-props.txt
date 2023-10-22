@@ -1,0 +1,10 @@
+const state = [];
+
+// Change code below this line
+// Define the mapStateToProps function
+const mapStateToProps = (state) => {
+  return {
+    messages: state,
+  };
+};
+
